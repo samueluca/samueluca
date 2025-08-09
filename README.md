@@ -1,8 +1,8 @@
-\# Meu Perfil
+# Meu Perfil
 
 ===
 
-\## sou Samuel 
+## sou Samuel 
 
 
 
@@ -12,9 +12,15 @@
 
 
 
-\## Meus objetivos 
+## Meus objetivos 
 
 
 * Dominar a lógica de programação
 * Aprender mais sobre linguagens de programação
-"# samueluca" 
+
+## Minha Experiência
+*  Classificado 2 face OBMP
+*  Cursando o 2º do Ensino Médio
+*  Participando da OBG
+*  Curso de programção de Java e C# em andamento
+
