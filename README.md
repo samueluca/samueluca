@@ -1,8 +1,8 @@
-# Meu Perfil
+# 🥶 Meu Perfil 🥶
 
 ===
 
-## sou Samuel 
+## sou Samuel Lucas
 
 
 
