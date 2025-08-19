@@ -23,6 +23,9 @@
 *  Cursando o 2º do Ensino Médio
 *  Participando da OBG
 *  Curso de programção de Java e C# em andamento
+ 
  ## Meus Projetos
-* Aqui estão alguns dos meus projetos desenvolvidos 
+* Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do curso:
+* Projeto 1 -em obras
+  
 
