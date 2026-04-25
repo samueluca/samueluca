@@ -1,32 +1,19 @@
-# 🥶 Meu Perfil 🥶
+# Bem-vindo, sou o Samuel Lucas 😎
 
-===
+Sou técnico de TI e desenvolvedor intermediário, estou aprendendo a desenvolver softwares, apps e sistemas 
+teacher : https://github.com/victorluansilva, 
 
-## sou Samuel Lucas
-
-
-
-* Brasileiro
-* Estudante do curso de "Programação com Java e C#"
-* Natural de Itabira
+## 💻 Tecnologias
+Linguagens: Java, C#, PHP e HTML
+Banco de Dados: MySQL, SQLite
+Ferramentas: GitHub, VSCode, Visual Studio, IntelliJ
 
 
+## ✉️ Contatos
 
-## Meus objetivos 
+Email: samuelucas708@gmail.com
+GitHub: https://github.com/samueluca
+zap : (31) 984903194
 
 
-* Dominar a lógica de programação
-* Aprender mais sobre linguagens de programação
-
-## Minha Experiência
-*  Classificado 2 face OBMP
-*  Cursando o 2º do Ensino Médio
-*  Participando da OBG
-*  Curso de T.I 
-*  Curso de programção de Java e C# 
- 
- ## Meus Projetos
-* Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do curso:
-* Projeto 1 -em obras
-  
-
+📖: Se Deus é por nós, quem será contra nós?
