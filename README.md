@@ -3,7 +3,7 @@
 Sou técnico de TI e desenvolvedor intermediário, estou aprendendo a desenvolver softwares, apps e sistemas 
 
 
-🤖 Tecnologias
+##  Tecnologias
 Linguagens: Java, C#, PHP e HTML
 Banco de Dados: MySQL, SQLite
 Ferramentas: GitHub, VSCode, Visual Studio, IntelliJ
