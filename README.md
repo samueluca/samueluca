@@ -1,7 +1,7 @@
 # Bem-vindo, sou o Samuel Lucas 😎
 
 Sou técnico de TI e desenvolvedor intermediário, estou aprendendo a desenvolver softwares, apps e sistemas 
-teacher : https://github.com/victorluansilva, 
+## teacher : https://github.com/victorluansilva, 
 
 ## 💻 Tecnologias
 Linguagens: Java, C#, PHP e HTML
