@@ -1,4 +1,4 @@
-# Bem-vindo, sou o Samuel Lucas 😎
+# Hello, welcome to my profile!! 💻
 
 Sou técnico de TI e desenvolvedor intermediário, estou aprendendo a desenvolver softwares, apps e sistemas 
 ## teacher : https://github.com/victorluansilva, 
