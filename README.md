@@ -22,7 +22,8 @@
 *  Classificado 2 face OBMP
 *  Cursando o 2º do Ensino Médio
 *  Participando da OBG
-*  Curso de programção de Java e C# em andamento
+*  Curso de T.I 
+*  Curso de programção de Java e C# 
  
  ## Meus Projetos
 * Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do curso:
