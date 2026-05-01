@@ -16,7 +16,6 @@ https://github.com/victorluansilva
 
 
 Email: samuelucas708@gmail.com
-GitHub: https://github.com/samueluca
 zap : (31) 984903194
 
 
